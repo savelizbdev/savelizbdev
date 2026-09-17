@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**savelizbdev/savelizbdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Samuel
 
-Here are some ideas to get you started:
+### Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building things for the web, mobile and beyond.
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/samuel-veliz/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:samuelantoni2002@gmail.com)
+
+</div>
+
+---
+
+### Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,typescript,fastapi,flutter,postgres,docker" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Always learning. Always building.
+
+</div>
